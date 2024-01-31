@@ -27,4 +27,13 @@ export const routes = [
       database.insert('users', user);
     },
   },
+  {
+    method: 'DELETE',
+    path: '/users/ID',
+    handler: (req, res) => {
+      const { id } = req.body;
+
+      database.delete('users', id);
+    },
+  },
 ];
