@@ -24,7 +24,7 @@ Exemplo de body para o POST:
 ## Instalação
 1. Clone o repositório: 
   ```
-  https://github.com/daniellichotti/my-skills/edit/main/README.md
+  https://github.com/daniellichotti/users-reg.git
   ```
 2. Instale as dependências:
    ```
