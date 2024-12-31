@@ -30,12 +30,12 @@ Exemplo de body para o POST:
    ```
    npm install
    ```
-3. Instale as dependências:
+3. Rodar a aplicação:
    ```
    npm run dev
    ```
 
-Se tudo foi feito corretamente ja sera possivel ver a aplicacao rodando no emulador.
+Se tudo foi feito corretamente ja sera possivel ver a aplicacao rodando no terminal e fazer requisições.
 
 ## Tecnologias
 Node.js
